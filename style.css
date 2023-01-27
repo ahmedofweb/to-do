@@ -1,6 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Aclonica&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amiri:wght@100;200;300;400;500;600;700&display=swap");
+
 body {
-  font-family: 'Aclonica', sans-serif;
+  font-family: 'Amiri', serif;
 }
 
 *{
@@ -23,7 +24,7 @@ button{
    border: 0;
    color: #fff;
    background-color: #000; 
-   font-family: 'Aclonica', sans-serif;
+   font-family: 'Amiri', sans-serif;
    box-shadow: 5px 5px 5px rgb(77, 75, 75) ;
 }
 form{
@@ -31,7 +32,7 @@ form{
     flex-direction: column;
     text-align: center;
     gap: 1rem;
-    font-family: 'Aclonica', sans-serif;
+    font-family: 'Amiri', sans-serif;
 }
 ul{
     list-style: none;
