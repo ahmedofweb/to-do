@@ -66,8 +66,7 @@ ul{
     margin: 0;
     justify-content: end;
     padding: 0;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding: 8px;
     border-radius: 8px;
     font-size: 10px;
     margin-left: auto;
