@@ -25,7 +25,7 @@ form.addEventListener("submit", (e)=>{
     // createElement => btnDelete nomli ozgaruvchiga <button></button> tagli element yaratilmoqda
     let btnDelete = document.createElement("button")
     btnDelete.classList.add("btnItem")
-    btnDelete.textContent = "🗑"
+    btnDelete.textContent = "delete"
 
 
     // regEX => user tomonidan kiritilayotgan malumotga cheklov yoki miqdorlar qoyadi , test qiladi 
