@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Aclonica&display=swap");
+body {
+  font-family: 'Aclonica', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+button{
+   padding: 8px 10px;
+   margin-bottom: 2rem;
+   border-radius: 8px;
+   border: 0;
+   color: #fff;
+   background-color: #000; 
+   font-family: 'Aclonica', sans-serif;
+   box-shadow: 5px 5px 5px rgb(77, 75, 75) ;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+    font-family: 'Aclonica', sans-serif;
+}
+ul{
+    list-style: none;
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    margin-right: 0;
+}
+.items{
+    display: flex;
+    width: 100%;
+    padding: 8px 15px;
+    background-color: aqua;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-right: 0;
+    box-shadow: 5px 5px 5px rgb(77, 75, 75) ;
+    align-items: center;
+}
+.hidden{
+    display: none;
+}
+.btnItem{
+    display: flex;
+    margin: 0;
+    justify-content: end;
+    padding: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 50%;
+    font-size: 25px;
+    margin-left: auto;
+}
+.btnItem:hover{
+    color: red;
+}
+
