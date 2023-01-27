@@ -2,6 +2,7 @@
 
 body {
   font-family: 'Belleza', sans-serif;
+  font-weight: 600;
 }
 
 
@@ -26,6 +27,7 @@ button{
    color: #fff;
    background-color: #000; 
    font-family: 'Belleza', sans-serif;
+   font-weight: 600;
    box-shadow: 5px 5px 5px rgb(77, 75, 75) ;
 }
 form{
@@ -34,6 +36,7 @@ form{
     text-align: center;
     gap: 1rem;
     font-family: 'Belleza', sans-serif;
+    font-weight: 600;
 }
 ul{
     list-style: none;
