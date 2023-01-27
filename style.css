@@ -68,8 +68,8 @@ ul{
     padding: 0;
     padding-left: 8px;
     padding-right: 8px;
-    border-radius: 50%;
-    font-size: 25px;
+    border-radius: 8px;
+    font-size: 10px;
     margin-left: auto;
 }
 .btnItem:hover{
